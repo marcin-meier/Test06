@@ -1,0 +1,27 @@
+Stwórz klasę Samochód, powinna ona posiadac atrybuty marka, model, kolor, przebieg, cena, rokProdukcji.
+Stwórz kilka obiektów klasy Samochód i dodaj je do listy. Stwórz metody które:
+
+ Pozwala wypisać wszystkie auta tańsze niz 600000zł
+ Pozwala wszystkim autom obnizyć cenę o 5000zł (jeśli cena auta jest mniejsza niż 5000zł to
+powinniśmy na to zareagować)
+ Pozwala znaleźć najstarsze auto
+ Pozwala znaleźć najmłodsze auto
+ Pozwala wyświetlić wszytkie czerwone auta
+ Pozwala wyświetlic wszystkie auta o danej marce i modelu
+
+/*
+Stwórz klasę Pracownik, która posiada pola imie, nazwisko, pesel, pensja.
+Stwórz kilka obiektów klasy Pracownik i dodaj je do listy. Stwórz metody które:
+- Zwracają rok urodzenia danego pracownika z peselu (metoda instancyjna w klasie Pracownik)
+- Zwracają wyciągnąć miesiąc urodzenia danego pracownika z peselu (jw.)
+- Zwracają wyciągnąć dzień urodzenia danego pracownika z peselu(jw.)
+- Znajdują pracownika który zarobił najwięcej
+- Znajdują wszystkie kobiety (jest to zakodowane w peselu)
+- Znajdują wszystkich mężczyzn (jest to zakodowane w peselu)
+- Znajdują wszystkie osoby o podanym nazwisku (parametr w metodzie)
+
+Metody nie mogą być voidowe! Muszą zwracać konkretnego pracownika bądź liste.
+Metody instancyjne powinny znaleźć się w klasie Pracownik, natomiast reszta powinna być w klasie Main.
+
+https://obywatel.gov.pl/pl/dokumenty-i-dane-osobowe/czym-jest-numer-pesel
+*/
