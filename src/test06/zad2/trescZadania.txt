@@ -1,0 +1,7 @@
+Zadanie 02:
+
+Wykorzystując optionale i streamy:
+Napisz metode ktora jako argument pobiera liste integerow a jako wynik zwraca
+5 najwkeiszych elementow na liscie, lub pustą listę jeśli z jakiegokolwiek powodu nie da rady znaleźć 5 najwiekszych elementow
+
+

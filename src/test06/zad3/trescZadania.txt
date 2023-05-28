@@ -1,0 +1,21 @@
+Zadanie 03:
+
+Dany jest plik figury.txt który wygląda mniej wiecej tak:
+KWADRAT;10
+KWADRAT;20
+PROSTOKAT;10;30
+KOLO;10
+KOLO;20
+PROSTOKAT;40;50
+KWADRAT;60
+
+
+        należy wczytać figury z tego pliku oraz stworzyc z nich liste/tablice figur w programie.
+        nastepnie nalezy przeiterowac po tej liscie/tablicy i wypisac:
+
+
+        - ile jest kwadratow
+
+        - dla kazdej figury wypisac jej pole oraz obwod.
+
+        uwaga: do wyboru strategii wczytywania figur nie wolno uzywac instrukcji warunkowych
